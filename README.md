@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rociocabrera
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on software companies
 - 📫 How to reach me: rocioevelincabrera@gmail.com
 
